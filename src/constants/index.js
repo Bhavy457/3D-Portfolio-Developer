@@ -324,10 +324,6 @@ const projects = [
         name: "Matplotlib",
         color: "pink-text-gradient",
       },
-      {
-        name: "Frontend",
-        color: "blue-text-gradient",
-      },
     ],
     image: tomato,
     source_code_link:
